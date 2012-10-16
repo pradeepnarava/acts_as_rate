@@ -9,8 +9,7 @@ Gem::Specification.new do |s|
   s.authors           = 'brillianceworks'
   s.require_path      = 'lib'
 
-  # Refinery CMS
-  s.add_dependency    'refinerycms'
+  
 
   s.files             = [
     'acts_as_rate.gemspec',
