@@ -18,6 +18,8 @@ The original plugin is used on cotcot.hu for article rating, sponsored quizzes, 
 
 Install as a gem:
 
+
+
     $ sudo gem install mreinsch-acts_as_rateable
 
 Then add the gem dependency in your config:
